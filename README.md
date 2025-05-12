@@ -1,6 +1,7 @@
 # Microsoft-Defender
 Defender scripts, notes and more
 
-TODO 
+TODO:
+
 ~Add "Get-AttackSurfaceReductionRulesStatus" script~
 - Add Advanced hunting queries
